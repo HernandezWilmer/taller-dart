@@ -1,6 +1,10 @@
 void main() {
-  Stringr nombre = "Juan";
+  String nombre = "Juan";
   int edad = 23;
-  String telefono = "320284123" 
+  String telefono = "320284123";
   print(nombre);
+
+  var apellido;
+  print(nombre);
+  print(apellido);
 }
