@@ -35,5 +35,10 @@ void main() {
     MULTILINEA
   ''';
 
-  print(texto10);
+  //Booleanos
+  var pruebaNull;
+
+  if (pruebaNull == null) {
+    print("Es null");
+  }
 }
