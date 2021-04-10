@@ -5,7 +5,6 @@ void main() {
   int edad = 52;
   double estatura = 1.80;
 
-<<<<<<< HEAD
   //print(estatura);
 
   if (edad.isNegative) {
@@ -48,14 +47,4 @@ void main() {
   var lista1 = ["Mazda", "Chevrloet", "Kia", 8];
   List<String> lista2 = ["Mazda", "Chevrloet", "Kia"];
   print(lista1);
-=======
-  print(estatura);
-
-  if (edad.isNegative) {
-    print("Este número es negativo.");
-    print(edad.abs());
-  } else {
-    print(edad.abs());
-  }
->>>>>>> f657379f7f400dcc60999267ca64eb61250bea60
 }
