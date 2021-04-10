@@ -39,6 +39,12 @@ void main() {
   var pruebaNull;
 
   if (pruebaNull == null) {
-    print("Es null");
+    //print("Es null");
   }
+
+  //Listas
+
+  var lista1 = ["Mazda", "Chevrloet", "Kia", 8];
+  List<String> lista2 = ["Mazda", "Chevrloet", "Kia"];
+  print(lista1);
 }
