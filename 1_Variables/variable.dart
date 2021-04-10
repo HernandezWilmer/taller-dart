@@ -5,7 +5,6 @@ void main() {
   int? variableAceptaNull = null;
 
   final String segundoApellido = "Hernández";
-  segundoApellido = "Álvarez";
 
   var apellido;
   print(nombre);
