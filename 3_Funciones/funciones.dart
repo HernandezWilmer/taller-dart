@@ -12,7 +12,9 @@ String obtenerNombre(String valor) {
   return "Mi nombre es $valor";
 }
 
-String obtenerNombreDos(String valor) => 'Mi Nombre es $valor';
+String obtenerNombreDos(String valor) {
+  return 'Mi Nombre es $valor';
+}
 
 String obtenerNombreTres({String nombre = 'Pablo', int? edad}) {
   return 'Mi Nombre es $nombre y mi edad es $edad';
